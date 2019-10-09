@@ -1,4 +1,6 @@
 # E07a-Particles
+Hi, this is Hua Zhao. For the homework, I have updated the color of the particles. I made it to smoke and changed the color to blue. 
+I noticed that particle is such a cool thing and I would like to focus more on that in the future. 
 Playing with particles and emitters
 
 This is an opportunity for you to play with some particles. As you hold down the mouse button, particles are generated and appended to self.particle_list. You will have the opportunity to play with the parameters for generating the particles to explore different effects.
